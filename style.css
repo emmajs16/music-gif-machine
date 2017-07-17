@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Averia+Sans+Libre|Bungee+Outline');
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline');
+img {
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 50%;
+}
+
+#jumbo {
+    background-image: url("https://s-media-cache-ak0.pinimg.com/originals/43/39/9a/43399abcefa8b2b516b08921e2054a9e.jpg");
+    background-position: center;
+    color: black;
+    border-style: solid !important;
+    border-bottom: 30px !important;
+}
+
+#jumbo h1 {
+    color: white;
+    font-family: 'Bungee Inline', cursive;
+    font-size: 500%;
+    text-align: center;
+}
+
+#jumbo #button {
+    background-image: none;
+    background-color: white;
+    color: black;
+    width: 5%;
+    margin-left: 45%;
+    font-family: 'Averia Sans Libre', cursive;
+    border-radius: 60%;
+    margin-top: 1%;
+}
+
+#jumbo a {
+    color: black !important;
+}
+
+#userInput {
+    width: 50%;
+    height: 70px;
+    margin-left: 23%;
+    font-size: 60px;
+    font-family: 'Averia Sans Libre', cursive;
+}
+
+.container {
+    background-color: black;
+}
+
+h2 {
+    text-align: center !important;
+    font-family: 'Averia Sans Libre', cursive !important;
+    color: white !important;
+    font-size: 500% !important;
+}
+
+body {
+    background-color: #222224 !important;
+    cursor: url("http://cursors3.totallyfreecursors.com/thumbnails/guitar-red.gif"), auto !important;
+}
+
+a {
+    font-family: 'Averia Sans Libre', cursive !important;
+    color: white !important;
+    margin-left: 48%;
+}
+
+h5 {
+    color: white !important;
+    text-align: center;
+    position: fixed;
+    top: 0px;
+    margin-left: 40%;
+    font-family: 'Averia Sans Libre', cursive !important;
+}
